@@ -24,11 +24,12 @@
 - 🛠 **Experienced in:** Fullstack Development, Cloud Platforms (AWS, Azure, GCP), and DevOps  
 - 🧩 **Specialized in:** Infrastructure Automation, CI/CD, and Test Automation  
 - 💼 **Notable Projects:**
-  - **Web Security – Isolation Platform:**
-  - **Social Network Project:**
-  - **IAM & Policy Builder System:**
-  - **Incident Management System:**
-  - **Signaling Gateway Application:**
+  - **Web Security – Isolation Platform**
+  - **Social Network Project**
+  - **IAM & Policy Builder System**
+  - **Incident Management System**
+  - **Signaling Gateway Application**
+  - **LTE-4G & 5G Gateways:** PGateway, SGateway, AAA
 
 ---
 
