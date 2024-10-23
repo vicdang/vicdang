@@ -6,7 +6,7 @@ I'm a Software Engineer, and SDET experienced in building highly scalable distri
 
 ---
 
-### 📫 Connect with me:
+### 📫 Contact me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vicdang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicdang.vn@gmail.com)
 
 ---
@@ -20,7 +20,7 @@ I'm a Software Engineer, and SDET experienced in building highly scalable distri
 
 ---
 
-## Technologies I'm comfortable with
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -52,15 +52,13 @@ I'm a Software Engineer, and SDET experienced in building highly scalable distri
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&layout=compact&theme=dark)
 
 ---
 
 ### 📱 Find My Work on:
-[![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=your-id)  
-[![Apple Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/your-link)
+[![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=your-id) [![Apple Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/your-link)
 
 ---
 
-PS: **I have not been very active here lately, but I am always available to collaborate with you!** 😎
+PS: **Not very active here lately, but always available for interesting collaborations!** 😎
