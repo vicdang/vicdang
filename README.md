@@ -1,9 +1,10 @@
 # Hi 👋, I'm Vu (Vic) Dang
 
+<div align="center">
+
 ### A passionate developer from _*Vietnam*_ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" style="vertical-align: middle;">
 
-<div align="center">
-<em>I'm a Software Engineer, and SDET experienced in building highly scalable distributed systems. I am a DevOps and Cloud Computing enthusiast.</em>
+<em>I am a <b>Software Engineer</b> and an <b>SDET (Software Development Engineer in Test)</b> with experience in building highly scalable distributed systems. I excel at collaborating with DevOps and Cloud Computing teams across various types of systems.</em>
 </div>
 
 ---
