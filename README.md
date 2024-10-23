@@ -1,8 +1,10 @@
 # Hi 👋, I'm Vu (Vic) Dang
 
-### A Technical Leader from Vietnam 🌍
+### A passionate developer from _*Vietnam*_ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" style="vertical-align: middle;">
 
-I'm a Software Engineer, and SDET experienced in building highly scalable distributed systems. I am a DevOps and Cloud Computing enthusiast.
+<div align="center">
+<em>I'm a Software Engineer, and SDET experienced in building highly scalable distributed systems. I am a DevOps and Cloud Computing enthusiast.</em>
+</div>
 
 ---
 
