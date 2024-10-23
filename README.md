@@ -24,11 +24,11 @@
 - 🛠 **Experienced in:** Fullstack Development, Cloud Platforms (AWS, Azure, GCP), and DevOps  
 - 🧩 **Specialized in:** Infrastructure Automation, CI/CD, and Test Automation  
 - 💼 **Notable Projects:**
-  - **Web Security – Isolation Platform:** Designed a secure environment platform for industries and governments, co-developed CI/CD pipelines, and led DevOps collaboration.
-  - **Social Network Project:** Developed features and built automation tests for a booking system on a microservices-based social network.
-  - **IAM & Policy Builder System:** Designed architecture and built a policy management system with integrated automation testing and system health checks.
-  - **Incident Management System:** Designed architecture and led the development of an incident management system enabling users to report safety incidents and near misses. Implemented data analysis to identify root causes and drive corrective actions, promoting proactive safety strategies and reducing future risks.
-  - **Signaling Gateway Application:** Developed telecom gateway modules and created simulation tools for switches and network nodes.
+  - **Web Security – Isolation Platform:**
+  - **Social Network Project:**
+  - **IAM & Policy Builder System:**
+  - **Incident Management System:**
+  - **Signaling Gateway Application:**
 
 ---
 
