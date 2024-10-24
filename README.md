@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### A developer and technical leader from _*Vietnam*_ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" style="vertical-align: middle;">
+### A Software developer and Technical leader from _*Vietnam*_ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" style="vertical-align: middle;">
 
 <em>I am a <b>Technical Leader</b> and <b>Software Development Engineer in Test (SDET)</b> with over 10 years of experience in software development, infrastructure, and automation. I specialize in building scalable systems, developing automation frameworks, and leading cross-functional teams through Agile and Waterfall methodologies.</em>
 
@@ -25,7 +25,7 @@
 - 🧩 **Specialized in:** Infrastructure Automation, CI/CD, and Test Automation  
 - 💼 **Notable Projects:**
   - **Web Security – Isolation Platform**
-  - **Social Network Project**
+  - **Social Network Platform**
   - **IAM & Policy Builder System**
   - **Incident Management System**
   - **Signaling Gateway Application**
@@ -66,17 +66,15 @@
 ---
 
 ## 🎓 Education & Certifications
-
-- 🎓 **Bachelor of Engineering in Information Technology**  
-  Dalat University (DLU) - Network Communications  
+- 🎓 **Bachelor of Engineering in Information Technology:** Network Communications  
 - 🏅 **Certificates:**
-  - **AI Advance Training Program** – 2024  
-  - **Professional Scrum Master I (PSM1)** – 2023  
-  - **Professional Scrum Developer (PSD)** – 2021  
-  - **Management Training Program** – 2020  
-  - **CI/CD Fundamental** – 2020  
-  - **Selenium Project with Python & Java** – 2019  
-  - **Cisco Certified Network Associate (CCNA)** – 2014  
+  - **AI Advance Training Program**
+  - **Professional Scrum Master I (PSM1)**
+  - **Professional Scrum Developer (PSD)**
+  - **Management Training Program**
+  - **CI/CD Fundamental**
+  - **Selenium Project with Python & Java**
+  - **Cisco Certified Network Associate (CCNA)**
 
 ---
 
