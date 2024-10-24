@@ -17,24 +17,7 @@
 
 ---
 
-### 🚀 About Me:
-
-- 🔭 **Currently working** as a Technical Leader and Project Manager  
-- 🌱 **Learning:** Advanced AI Techniques, Leadership & Management Skills  
-- 🛠 **Experienced in:** Fullstack Development, Cloud Platforms (AWS, Azure, GCP), and DevOps  
-- 🧩 **Specialized in:** Infrastructure Automation, CI/CD, and Test Automation  
-- 💼 **Notable Projects:**
-  - **Web Security – Isolation Platform**
-  - **Social Network Platform**
-  - **IAM & Policy Builder System**
-  - **Incident Management System**
-  - **Signaling Gateway Application**
-  - **LTE-4G & 5G Gateways:** PGateway, SGateway, AAA
-
----
-
 ## 🛠 Technologies & Tools
-
 ### **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
@@ -76,6 +59,22 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 🚀 About Me:
+
+- 🔭 **Currently working** as a Technical Leader and Project Manager  
+- 🌱 **Learning:** Advanced AI Techniques, Leadership & Management Skills  
+- 🛠 **Experienced in:** Fullstack Development, Cloud Platforms (AWS, Azure, GCP), and DevOps  
+- 🧩 **Specialized in:** Infrastructure Automation, CI/CD, and Test Automation  
+- 💼 **Notable Projects:**
+  - **Web Security – Isolation Platform**
+  - **Social Network Platform**
+  - **IAM & Policy Builder System**
+  - **Incident Management System**
+  - **Signaling Gateway Application**
+  - **LTE-4G & 5G Gateways:** PGateway, SGateway, AAA
 
 ---
 
