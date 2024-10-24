@@ -4,7 +4,7 @@
 
 ### A Software developer and Technical leader from _*Vietnam*_ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" style="vertical-align: middle;">
 
-<em>I am a <b>Technical Leader</b> and <b>Software Development Engineer in Test (SDET)</b> with over 10 years of experience in software development, infrastructure, and automation. I specialize in building scalable systems, developing automation frameworks, and leading cross-functional teams through Agile and Waterfall methodologies.</em>
+<em>I am a <b>Technical Leader</b> and <b>Software Development Engineer in Test (SDET)</b> experienced in software development, infrastructure, and automation. I specialize in building scalable systems, developing automation frameworks, and leading cross-functional teams through Agile and Waterfall methodologies.</em>
 
 </div>
 
