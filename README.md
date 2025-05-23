@@ -100,7 +100,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&show=prs_merged_percentage,reviews,prs_merged&include_all_commits=true&rank_icon=percentile&theme=gruvbox) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&rank_icon=percentile&layout=donut&theme=gruvbox)
 
 ---
 
@@ -119,3 +119,5 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vicdang"/>
 </div>
+
+---
