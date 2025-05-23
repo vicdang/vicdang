@@ -1,106 +1,121 @@
-# Hi 👋, I'm Vu (Vic) Dang
-
 <div align="center">
 
-### A Software developer and Technical leader from _*Vietnam*_ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" style="vertical-align: middle;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36F715&background=FFFFFF00&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Vu+Dang;You+can+call+me+Vic;Nice+to+meet+you" alt="Typing SVG" /></a>
 
-<em>I am a <b>Technical Leader</b> and <b>Software Development Engineer in Test (SDET)</b> experienced in software development, infrastructure, and automation. I specialize in building scalable systems, developing automation frameworks, and leading cross-functional teams through Agile and Waterfall methodologies.</em>
+### 🧠 Technical Leader & Project Manager | SDET | DevOps Enthusiast | AI Explorer  
+#### Based in _*Vietnam*_ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" style="vertical-align: middle;">
 
 </div>
 
 ---
 
-### 📫 Contact Me:
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vicdang) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicdang.vn@gmail.com)
+<div align="center">
+
+💼 I'm a versatile **Technical Leader** and **Project Manager** with over a decade of experience spanning **software development**, **automation**, **QA**, and **DevOps**. My expertise lies in **SDET practices**, architecting scalable microservices, leading Agile teams, and building AI-powered solutions.
+
+</div>
+
+---
+<div align="center">
+
+### 📬 Contact Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vicdang)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vudnn.dl@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/vudnn.dl) [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=your.vudnn.dl@gmail.com)
+
+</div>
+
+---
+<div align="center">
+
+## 🚀 About Me
+</div>
+
+- 🔭 Currently leading cross-functional teams in enterprise projects and AI initiatives  
+- 📱 Building a **Flutter-based mobile app** for white noise soundscapes  
+- 🧠 Exploring **AI workflows** for document analysis and recruitment automation  
+- 🌍 Managing multi-environment **CI/CD pipelines** with GitLab, GKE, and Pact  
+- ⚡ Keen on improving **test automation**, system observability, and deployment strategies  
+
+---
+<div align="center">
+
+## 🧩 Key Projects
+</div>
+
+- 🛡  **Web Isolation Platform for Security-first Browsing**
+- 📱  **Mobile App for Smart Antenna**
+- 👥 **Enterprise Social Network Platform**
+- 🔐 **IAM & Dynamic Policy Builder**
+- 🚨 **Real-time Incident Management System**
+- 📡 **Telecom Gateways for 4G/5G (PGW, SGW, AAA)**
+- 🤖 **AI-Assisted JD ↔ CV Matching System (Dropbox-integrated)**
+
+---
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,cs,react,javascript,bash,perl"/>
+
+### 🧰 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=django,flask,angular,express"/>
+<img src="https://skillicons.dev/icons?i=selenium,nginx,electron,bootstrap,html,css,jquery,tailwind"/>
+<img src="https://skillicons.dev/icons?i=cypress,jest,d3,dart,elasticsearch"/>
+<img src="https://skillicons.dev/icons?i=git,bitbucket,github,gitlab,grafana,kafka,postman"/>
+<img src="https://skillicons.dev/icons?i=maven,npm,sentry,terraform"/>
+<img src="https://skillicons.dev/icons?i=ai,photoshop,sketchup,vscode,pycharm,eclipse,vim"/>
+
+### ☁️ Cloud & Infra
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,openstack"/>
+
+### Platform
+<img src="https://skillicons.dev/icons?i=redhat,ubuntu,linux,windows,apple,debian"/>
+
+### 🧮 Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite"/>
+
+</div>
 
 ---
 
-## 🛠 Technologies & Tools
-### **Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### **Frameworks & Tools:**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-35A6C4?style=for-the-badge&logo=appium&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### **Cloud Platforms & CI/CD:**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black) 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### **Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-
-### **Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-### 🚀 About Me:
-
-- 🔭 **Currently working** as a Technical Leader and Project Manager  
-- 🌱 **Learning:** Advanced AI Techniques, Leadership & Management Skills  
-- 🛠 **Experienced in:** Fullstack Development, Cloud Platforms (AWS, Azure, GCP), and DevOps  
-- 🧩 **Specialized in:** Infrastructure Automation, CI/CD, and Test Automation  
-- 💼 **Notable Projects:**
-  - **Web Security – Isolation Platform**
-  - **Social Network Platform**
-  - **IAM & Policy Builder System**
-  - **Incident Management System**
-  - **Signaling Gateway Application**
-  - **LTE-4G & 5G Gateways:** PGateway, SGateway, AAA
-
----
+<div align="center">
 
 ## 🎓 Education & Certifications
-- 🎓 **Bachelor of Engineering in Information Technology:** Network Communications  
-- 🏅 **Certificates:**
-  - **AI Advance Training Program**
-  - **Professional Scrum Master I (PSM1)**
-  - **Professional Scrum Developer (PSD)**
-  - **Management Training Program**
-  - **CI/CD Fundamental**
-  - **Selenium Project with Python & Java**
-  - **Cisco Certified Network Associate (CCNA)**
+
+</div>
+
+- 🎓 **B.E. in IT (Network Communications)**  
+- 🧾 **Certifications:**
+  - AI Advanced Training
+  - PSM, PSD
+  - CI/CD Fundamentals
+  - Selenium Automation
+  - Cisco CCNA
+  - Technical & Management Leadership Programs
+  - Project Management
+
+---
+<div align="center">
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&layout=compact&theme=dark)
 
 ---
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&layout=compact&theme=dark)
+## 📱 Mobile Work
 
----
-
-### 📱 Find My Work on:
-[![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store) 
+[![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play)](https://play.google.com/store)
 [![Apple Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
 
 ---
 
-PS: **Always open to exciting collaborations and new challenges!** 😎
+### 👀 Fun Fact
+
+> I'm passionate about applying AI in **workflow automation** and **human augmentation** — and I always enjoy a good challenge!
+
+**Let’s connect and build something amazing!**
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vicdang"/>
+</div>
