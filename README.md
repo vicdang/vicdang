@@ -75,6 +75,9 @@
 ### 🧮 Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite"/>
 
+### Others
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+
 </div>
 
 ---
@@ -100,7 +103,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&show=prs_merged_percentage,reviews,prs_merged&include_all_commits=true&rank_icon=percentile&theme=gruvbox) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&rank_icon=percentile&layout=donut&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdang&show_icons=true&show=prs_merged_percentage,reviews,prs_merged&include_all_commits=true&rank_icon=percentile&theme=gruvbox) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdang&rank_icon=percentile&layout=donut&theme=gruvbox)![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vicdang&hide=B&theme=gruvbox&limit=5&&combine_all_yearly_contributions=true)[![GitHub Streak](https://streak-stats.demolab.com?user=vicdang&theme=gruvbox)](https://git.io/streak-stats)
 
 ---
 
@@ -116,6 +119,8 @@
 > I'm passionate about applying AI in **workflow automation** and **human augmentation** — and I always enjoy a good challenge!
 
 **Let’s connect and build something amazing!**
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vicdang"/>
 </div>
