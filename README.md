@@ -27,31 +27,45 @@
 ---
 <div align="center">
 
-## 🚀 About Me
-</div>
+## 👋 About Me
 
-- 🔭 Currently leading cross-functional teams in enterprise projects and AI initiatives  
-- 📱 Building a **Flutter-based mobile app** for white noise soundscapes  
-- 🧠 Exploring **AI workflows** for document analysis and recruitment automation  
-- 🌍 Managing multi-environment **CI/CD pipelines** with GitLab, GKE, and Pact  
-- ⚡ Keen on improving **test automation**, system observability, and deployment strategies  
+- 💼 Versatile **Technical Leader** and **Project Manager** with 10+ years across software dev, SDET, QA, automation & DevOps.
+- 🧠 Leading Agile teams & building AI-powered solutions to solve real-world problems.
+- 🔭 Currently exploring **AI-assisted automation**, **GenAI workflows**, and **developer enablement platforms**.
+- 📱 Building a **Flutter-based mobile app** for white noise soundscapes.
+- 🤖 Designing an AI-powered **JD ↔ CV Matching System** for HR & recruitment.
+- 🧩 Architecting multi-env **CI/CD pipelines** with GitLab, GKE, and Pact for enterprise delivery.
 
 ---
-<div align="center">
+
+## 🎯 Currently Exploring
+
+- 🧪 Ready-to-deploy **n8n workflows** for automation.
+- 📦 Launching **micro-products** (Notion templates, toolkits) on GitHub & Gumroad.
+- 📘 Writing **DevTest Playbook** (from Foundation to Advanced).
+- 👨‍🏫 Mentoring engineers in SDET, automation, and systems thinking.
+
+---
 
 ## 🧩 Key Projects
-</div>
 
-- 🛡  **Web Isolation Platform for Security-first Browsing**
-- 📱  **Mobile App for Smart Antenna**
-- 👥 **Enterprise Social Network Platform**
-- 🔐 **IAM & Dynamic Policy Builder**
-- 🚨 **Real-time Incident Management System**
-- 📡 **Telecom Gateways for 4G/5G (PGW, SGW, AAA)**
-- 🤖 **AI-Assisted JD ↔ CV Matching System (Dropbox-integrated)**
+- 🛡  Web Isolation Platform for Security-first Browsing
+- 📱  Mobile App for Smart Antenna
+- 👥  Enterprise Social Network Platform
+- 🔐  IAM & Dynamic Policy Builder
+- 🚨  Real-time Incident Management System
+- 📡  Telecom Gateways for 4G/5G (PGW, SGW, AAA)
+- 🤖  AI-Assisted JD ↔ CV Matching System (Dropbox-integrated)
 
 ---
-<div align="center">
+
+## 🤝 How I Can Help You
+
+- 💡 Need guidance on automation, SDET strategy, or CI/CD pipelines? I'm open to mentoring.
+- 🧩 Want to integrate AI into your workflow or business process? Let’s talk.
+- 🎤 Looking for a guest speaker or tech trainer? I’m available.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -83,6 +97,14 @@
 ---
 
 <div align="center">
+
+## 🎁 Micro-Products (Coming Soon)
+
+- ✅ AI-powered **CV evaluator** for recruiters and hiring managers.
+- 🧠 Pre-built **n8n workflow automations** for tech teams.
+- 🧾 Battle-tested **DevTest Playbook** with real-world examples.
+
+---
 
 ## 🎓 Education & Certifications
 
@@ -116,7 +138,7 @@
 
 ### 👀 Fun Fact
 
-> I'm passionate about applying AI in **workflow automation** and **human augmentation** — and I always enjoy a good challenge!
+> I hate repetition — I automate anything I need to do more than twice 😎
 
 **Let’s connect and build something amazing!**
 
