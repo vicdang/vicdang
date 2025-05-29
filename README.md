@@ -29,6 +29,8 @@
 
 ## 👋 About Me
 
+</div>
+
 - 💼 Versatile **Technical Leader** and **Project Manager** with 10+ years across software dev, SDET, QA, automation & DevOps.
 - 🧠 Leading Agile teams & building AI-powered solutions to solve real-world problems.
 - 🔭 Currently exploring **AI-assisted automation**, **GenAI workflows**, and **developer enablement platforms**.
@@ -37,8 +39,11 @@
 - 🧩 Architecting multi-env **CI/CD pipelines** with GitLab, GKE, and Pact for enterprise delivery.
 
 ---
-
+<div align="center">
+  
 ## 🎯 Currently Exploring
+
+</div>
 
 - 🧪 Ready-to-deploy **n8n workflows** for automation.
 - 📦 Launching **micro-products** (Notion templates, toolkits) on GitHub & Gumroad.
@@ -46,8 +51,11 @@
 - 👨‍🏫 Mentoring engineers in SDET, automation, and systems thinking.
 
 ---
+<div align="center">
 
 ## 🧩 Key Projects
+
+</div>
 
 - 🛡  Web Isolation Platform for Security-first Browsing
 - 📱  Mobile App for Smart Antenna
@@ -58,8 +66,11 @@
 - 🤖  AI-Assisted JD ↔ CV Matching System (Dropbox-integrated)
 
 ---
+<div align="center">
 
 ## 🤝 How I Can Help You
+
+</div>
 
 - 💡 Need guidance on automation, SDET strategy, or CI/CD pipelines? I'm open to mentoring.
 - 🧩 Want to integrate AI into your workflow or business process? Let’s talk.
@@ -100,12 +111,15 @@
 
 ## 🎁 Micro-Products (Coming Soon)
 
+</div>
+
 - ✅ AI-powered **CV evaluator** for recruiters and hiring managers.
 - 🧠 Pre-built **n8n workflow automations** for tech teams.
 - 🧾 Battle-tested **DevTest Playbook** with real-world examples.
 
 ---
-
+<div align="center">
+  
 ## 🎓 Education & Certifications
 
 </div>
