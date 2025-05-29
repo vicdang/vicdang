@@ -84,11 +84,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,nodejs,cs,react,javascript,bash,perl"/>
 
 ### 🧰 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=django,flask,angular,express"/>
-<img src="https://skillicons.dev/icons?i=selenium,nginx,electron,bootstrap,html,css,jquery,tailwind"/>
-<img src="https://skillicons.dev/icons?i=cypress,jest,d3,dart,elasticsearch"/>
-<img src="https://skillicons.dev/icons?i=git,bitbucket,github,gitlab,grafana,kafka,postman"/>
-<img src="https://skillicons.dev/icons?i=maven,npm,sentry,terraform"/>
+<img src="https://skillicons.dev/icons?i=django,flask,angular,express,selenium,nginx,electron,bootstrap,html,css,jquery,tailwind,cypress,jest,d3,dart,elasticsearch,git,bitbucket,github,gitlab,grafana,kafka,postman,maven,npm,sentry,terraform"/>
 <img src="https://skillicons.dev/icons?i=ai,photoshop,sketchup,vscode,pycharm,eclipse,vim"/>
 
 ### ☁️ Cloud & Infra
