@@ -77,6 +77,7 @@
 - 🎤 Looking for a guest speaker or tech trainer? I’m available.
 
 ---
+<div align="center">
 
 ## 🛠️ Tech Stack
 
